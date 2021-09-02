@@ -1,0 +1,52 @@
+body{
+background-image: url(https://wallpaperaccess.com/full/1892790.jpg);
+background-repeat: no-repeat;
+padding: 0px;
+margin: 0px;
+
+}
+.topbar{
+color: rgb(221, 221, 221);
+
+}
+
+
+.left{
+
+    margin: -3px;
+    position: absolute;
+    left: 68px;
+    color: rgb(255, 255, 255);
+}
+
+.mid{
+    
+    margin: 5px;
+    width: 500px;
+    margin: 5px auto;
+    font-family: 'Raleway', sans-serif;
+    padding-left: 0px;
+    
+}
+
+.right{
+    border: antiquewhite  2px solid;
+    margin: 5px;
+    position: absolute;
+    right: 10px;
+    position: absolute;
+    top: 10px;
+}
+.topbar li a{
+    text-decoration: none;
+ color: aliceblue;  
+}
+.topbar li{
+    display: inline-block;
+    padding: 24px;
+}
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    
+
+}
